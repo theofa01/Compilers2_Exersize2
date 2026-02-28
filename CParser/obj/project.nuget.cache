@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gOl/tkXLp78=",
+  "dgSpecHash": "l1MQfnXpdB4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\thodo\\source\\repos\\Compilers2025_2026(17)\\CParser\\CParser.csproj",
+  "projectFilePath": "C:\\Users\\thodo\\Source\\Repos\\Compilers2_Exersize2\\CParser\\CParser.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thodo\\.nuget\\packages\\antlr4.runtime.standard\\4.13.1\\antlr4.runtime.standard.4.13.1.nupkg.sha512",
     "C:\\Users\\thodo\\.nuget\\packages\\antlr4buildtasks\\12.11.0\\antlr4buildtasks.12.11.0.nupkg.sha512",

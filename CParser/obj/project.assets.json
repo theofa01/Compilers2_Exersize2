@@ -3279,11 +3279,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\thodo\\Source\\Repos\\Compilers2025_2026(17)\\CParser\\CParser.csproj",
+      "projectUniqueName": "C:\\Users\\thodo\\Source\\Repos\\Compilers2_Exersize2\\CParser\\CParser.csproj",
       "projectName": "CParser",
-      "projectPath": "C:\\Users\\thodo\\Source\\Repos\\Compilers2025_2026(17)\\CParser\\CParser.csproj",
+      "projectPath": "C:\\Users\\thodo\\Source\\Repos\\Compilers2_Exersize2\\CParser\\CParser.csproj",
       "packagesPath": "C:\\Users\\thodo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\thodo\\Source\\Repos\\Compilers2025_2026(17)\\CParser\\obj\\",
+      "outputPath": "C:\\Users\\thodo\\Source\\Repos\\Compilers2_Exersize2\\CParser\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CParser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+617e8d3fbd63b0204f11d3ed92a4bf2fd655f22f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+754c63f0f655b0fd016b7364a849875389563502")]
 [assembly: System.Reflection.AssemblyProductAttribute("CParser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CParser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

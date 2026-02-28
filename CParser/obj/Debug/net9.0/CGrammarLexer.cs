@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-// Generated from C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/CGrammarLexer.g by ANTLR 4.13.1
+// Generated from C:/Users/thodo/Source/Repos/Compilers2_Exersize2/CParser/CGrammarLexer.g by ANTLR 4.13.1
 
 // Unreachable code detected
 #pragma warning disable 0162
