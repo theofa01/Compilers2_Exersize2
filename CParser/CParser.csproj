@@ -1,0 +1,51 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AssemblyName>CParser</AssemblyName>
+    <RootNamespace>CParser</RootNamespace>
+    <StartupObject></StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="CGrammarLexer.g" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Antlr4 Include="CGrammarLexer.g" />
+    <Antlr4 Include="CGrammarParser.g" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="obj\Debug\net9.0\CGrammarLexer.cs" />
+    <Compile Include="obj\Debug\net9.0\CGrammarParser.cs" />
+    <Compile Include="obj\Debug\net9.0\CGrammarParserBaseListener.cs" />
+    <Compile Include="obj\Debug\net9.0\CGrammarParserBaseVisitor.cs" />
+    <Compile Include="obj\Debug\net9.0\CGrammarParserListener.cs" />
+    <Compile Include="obj\Debug\net9.0\CGrammarParserVisitor.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="bin\Debug\net9.0\ast.dot.gif" />
+    <Content Include="bin\Debug\net9.0\test.dot.gif" />
+    <Content Include="bin\Debug\net9.0\test.txt" />
+    <Content Include="bin\debug\net9.0\test1.txt" />
+    <Content Include="bin\Debug\net9.0\type_log.gif" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="bin\Debug\net9.0\ast.dot" />
+    <None Include="bin\Debug\net9.0\test.dot" />
+    <None Include="bin\Debug\net9.0\type_log.dot" />
+    <None Include="obj\Debug\net9.0\CGrammarParser.tokens" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Antlr4.Runtime.Standard" Version="4.13.1" />
+    <PackageReference Include="Antlr4BuildTasks" Version="12.11.0" />
+  </ItemGroup>
+
+</Project>

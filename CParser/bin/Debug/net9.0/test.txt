@@ -1,0 +1,29 @@
+unsigned long int b;
+long long int c;
+long int d;
+short e;
+unsigned long long** a;
+int *f;
+short int d;
+long double e;
+long double *a;
+double b;
+float c;
+void *a;
+struct node* a;
+struct node b;
+union data b;
+int f;
+long a;
+long long b;
+union node* c;
+float* fl;
+
+int ***b[3][5][6];
+long long int a[10];
+float *a[1080][720];
+
+long long add(unsigned int a, int b);
+void func(void);
+double (*f)(float a, short* b);
+int* (*func)(int a, float *b, long long c);

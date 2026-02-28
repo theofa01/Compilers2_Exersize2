@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Composite": {
+      "commandName": "Project",
+      "commandLineArgs": "test.txt"
+    }
+  }
+}

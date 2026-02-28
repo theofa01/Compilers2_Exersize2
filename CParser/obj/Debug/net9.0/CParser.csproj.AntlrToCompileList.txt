@@ -1,0 +1,6 @@
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarLexer.cs
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarParser.cs
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarParserBaseListener.cs
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarParserBaseVisitor.cs
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarParserListener.cs
+C:/Users/thodo/source/repos/Compilers2025_2026(17)/CParser/obj/Debug/net9.0/CGrammarParserVisitor.cs
